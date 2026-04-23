@@ -27,8 +27,8 @@ Final project for Programming Fundamentals II, focusing on object-oriented desig
 - SFML 2.5.1
 
 ## Screenshots
-![Gameplay](gamplay.png)
+![Game Won](gameplay.png)
 
-![Gameplay](gameplay2.png)
+![Flagging](gameplay2.png)
 
-![Gameplay](gameplay3.png)
+![Game Lost](gameplay3.png)

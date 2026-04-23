@@ -16,7 +16,7 @@ A minesweeper game built using C++ to combine all of the concepts covered in Pro
 Final project for Programming Fundamentals II, focusing on object-oriented design, file I/O, and 2D graphics using an external library (SFML)
 
 ## How to run
-- In the config.cfg file, type the amount of rows on the first line, the amount of columns on the second, and the number of mines on the third (it is initialized to 25, 16, and 50), or load one of the testboards by clicking the testboard button
+- In the config.cfg file (Minesweeper_project/boards/config.cfg), type the amount of rows on the first line, the amount of columns on the second, and the number of mines on the third (it is initialized to 25, 16, and 50), or load one of the testboards by clicking the testboard button
 - Play minesweeper!
 - When the game is won or lost, the emoji at the bottom of the board will change, and you click it to reset the game
 - You can also click one of the testboards to reset the game and load that specific board
@@ -27,8 +27,8 @@ Final project for Programming Fundamentals II, focusing on object-oriented desig
 - SFML 2.5.1
 
 ## Screenshots
-![Gameplay](gamplay.png)
+![Game Won](gameplay.png)
 
-![Gameplay](gameplay2.png)
+![Flagging](gameplay2.png)
 
-![Gameplay](gameplay3.png)
+![Game Lost](gameplay3.png)
